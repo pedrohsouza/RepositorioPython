@@ -14,7 +14,7 @@
 				"editor.formatOnSave": true,
 				"markdown.preview.openMarkdownLinks": "inPreview",
 				"markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
-				"markdown-preview-enhanced.previewTheme": "github-light.css"
+				"markdown-preview-enhanced.previewTheme": "github-dark.css"
 				},
 			"extensions": [
 				"ms-python.python",
