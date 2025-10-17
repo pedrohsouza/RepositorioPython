@@ -10,6 +10,12 @@
 	},
 	"customizations": {
 		"vscode": {
+			"settings": {
+				"editor.formatOnSave": true,
+				"markdown.preview.openMarkdownLinks": "inPreview",
+				"markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+				"markdown-preview-enhanced.previewTheme": "github-light.css"
+				},
 			"extensions": [
 				"ms-python.python",
 				"shd101wyy.markdown-preview-enhanced"
