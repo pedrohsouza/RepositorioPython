@@ -30,7 +30,7 @@ git add .
 ```
 
 #### Dar commit
-Gravar os arquivos e alterações para o histórico do repositório.
+Gravar os arquivos e alterações para o histórico do repositório no dispositivo.
 Detalhe que com esse comando essas alterações ainda não estão salvas no GitHub.
 ```sh
 git commit -m "Texto da mensagem"
